@@ -3,6 +3,9 @@
 ## Overview
 This project analyzes yearly expense data and predicts future expenses using Python and Power BI.
 
+## Dataset Size
+600+ records covering full year expenses
+
 ## Key Features
 - Monthly expense trend analysis
 - Category-wise spending breakdown
