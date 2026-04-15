@@ -1,21 +1,23 @@
 # Smart Expense Analytics & Prediction System
 
 ## Overview
-This project analyzes personal expense data and predicts future expenses using Python and Power BI.
+This project analyzes yearly expense data and predicts future expenses using Python and Power BI.
+
+## Key Features
+- Monthly expense trend analysis
+- Category-wise spending breakdown
+- Highest spending category detection
+- Next month expense prediction
 
 ## Tools Used
 - Python (Pandas)
 - Power BI
 - CSV Dataset
 
-## Features
-- Monthly trend analysis
-- Category-wise spending
-- Expense prediction
-
-## Output
-- Interactive dashboard
-- Next month prediction
+## Insights
+- Highest Spending Category: Room Rent
+- Peak Expense Month: April
+- Predicted Expense: ₹36.26K
 
 ## Author
 Pratik Badgujar
